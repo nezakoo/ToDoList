@@ -1,2 +1,2 @@
 # ToDoList
-Список to do для UGEN
+ToDoList for UGEN
